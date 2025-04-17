@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/Unreal/projekty/Warehouse_wreckage/Content/StarterContent/Audio/Collapse01.uasset",
+				"E:/Unreal/projekty/Warehouse_wreckage/Content/StarterContent/Maps/BP_Projectile.uasset",
+				"E:/Unreal/projekty/Warehouse_wreckage/Content/BP_Projectile.uasset",
+				"E:/Unreal/projekty/Warehouse_wreckage/Content/projekt/projekt.umap",
+				"E:/Unreal/projekty/Warehouse_wreckage/Content/projekt/BP_Projectile.uasset",
+				"E:/Unreal/projekty/Warehouse_wreckage/Content/StarterContent/Props/Materials/M_Chair.uasset",
+				"E:/Unreal/projekty/Warehouse_wreckage/Content/StarterContent/Props/Materials/M_TableRound.uasset",
+				"E:/Unreal/projekty/Warehouse_wreckage/Content/Main.umap",
+				"E:/Unreal/projekty/Warehouse_wreckage/Content/projekt/Main.umap",
+				"E:/Unreal/projekty/Warehouse_wreckage/Content/IndustryPropsPack6/Meshes/SM_Barrel01.uasset",
+				"E:/Unreal/projekty/Warehouse_wreckage/Content/IndustryPropsPack6/Meshes/BP_Barrel.uasset",
+				"E:/Unreal/projekty/Warehouse_wreckage/Content/StarterContent/Maps/projekt.umap"
+			]
+		}
+	]
+}
